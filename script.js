@@ -20,3 +20,4 @@ var checkDead = setInterval(function() {
         alert("You lost!");
     }
 }, 10)
+//comment 
